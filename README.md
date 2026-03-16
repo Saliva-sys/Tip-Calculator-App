@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repository](https://github.com/Saliva-sys/Tip-Calculator-App.git)
-- Live Site URL: [Run locally](http://localhost:5173/)
+- Live Site URL: [Live URL](https://saliva-sys.github.io/Tip-Calculator-App/)
 
 ## My process
 
